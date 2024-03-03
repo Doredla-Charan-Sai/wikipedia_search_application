@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.wiki-search-header{
+    padding: 10px;
+    text-align: center;
+}
+.wiki-logo{
+    height: 200px;
+    width: 200px;
+}
+.search-input{
+    margin: 10px;
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border-style: solid;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+.each_result_div{
+    font-family: "Roboto";
+    padding: 15px;
+}
+.each_result_heading{
+    color: rgb(0, 179, 255);
+    font-weight: bold;
+    font-size: 18px;
+}
+.each_result_link{
+    color: green;
+    font-weight: bold;
+    font-size: 14px;
+}
+.each_result_des{
+    color: rgb(0, 0, 0);
+    font-size: 12px;
+}
+.search-result{
+    padding: 10px;
+}
